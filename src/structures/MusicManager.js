@@ -1,7 +1,7 @@
 const { Collection } = require("discord.js");
 const { Manager } = require("@lavacord/discord.js");
 const { Rest } = require("lavacord");
-const Queue = require("./Queue");
+const Queue = require("./Queue.lavalink.js");
 
 /**
  * @class MusicManager
